@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm B.Ali 👋
 
-<!--
-**devbayy/devbayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer currently focused on Solidity smart contracts and blockchain security audits.  
 
-Here are some ideas to get you started:
+- 🔭 Previously worked as a Frontend Developer with experience in building responsive and user-friendly web applications.  
+- 🌱 Currently learning Solidity and performing smart contract audits  
+- 💬 Ask me about smart contract security, Solidity, blockchain tech, and frontend development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- Solidity, Ethereum  
+- Smart contract auditing  
+- JavaScript, React, HTML, CSS (Frontend) 
+- Git & GitHub  
+
