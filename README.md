@@ -1,6 +1,6 @@
 # Hi there, I'm B.Ali 👋
 
-I'm a passionate software developer currently focused on Solidity smart contracts and blockchain security audits.  
+I'm a passionate developer currently focused on Solidity smart contracts and blockchain security audits.  
 
 - 🔭 Frontend Developer with experience in building responsive and user-friendly web applications.  
 - 🌱 Currently learning Solidity and performing smart contract audits  
